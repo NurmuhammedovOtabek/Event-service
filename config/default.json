@@ -1,0 +1,16 @@
+{
+    "port": 3000,
+    "db_host": "localhost",
+    "db_username": "postgres",
+    "db_password": "1704",
+    "db_port": 5432,
+    "db_name": "eventservice",
+    "access_key": "MyVeryAccessKey",
+    "refresh_key": "MyVeryRefreshKey",
+    "access_time": "15h",
+    "refresh_time": "15d",
+    "cookie_refresh_time": 12960000,
+    "secretKey": "100ball",
+    "user": "otabeknurmuhammedov17@gmail.com",
+    "pass": "yglqrgkpfbtmykaa"
+}
