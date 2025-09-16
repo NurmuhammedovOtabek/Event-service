@@ -2,7 +2,7 @@
     "port": 3214,
     "db_host": "localhost",
     "db_username": "postgres",
-    "db_password": "1704",
+    "db_password": "1234",
     "db_port": 5432,
     "db_name": "eventservice",
     "access_key": "MyVeryAccessKey",
